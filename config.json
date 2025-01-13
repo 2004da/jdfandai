@@ -1,0 +1,7 @@
+{
+    "proxyRoutes": {
+      "/amd06ws": "http://npm2amd06ws.p.dnsabr.com",
+      "/choazus": "https://ex05.choreoapps.dev",
+      "/ex01": "https://example.com"
+    }
+  }
